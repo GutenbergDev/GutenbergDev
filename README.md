@@ -7,3 +7,4 @@ I am studying 1st semester of Analysis and Systems Development. I am also taking
 
 - 👨‍💻 I am currently learning programming logic and Javascript.
 - 📫 Contact: gutenbergdevm@hotmail.com
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutenbergDev)](https://github.com/GutenbergDev/github-readme-stats)
