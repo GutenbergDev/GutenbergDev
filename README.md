@@ -10,5 +10,4 @@
 
 
 - ⚙ GitHub Analytics
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutenbergDev&show_icons=true&theme=radical)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GutenbergDev&layout=compact&theme=radical)](https://github.com/GutenbergDev/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutenbergDev&show_icons=true&theme=radical)
