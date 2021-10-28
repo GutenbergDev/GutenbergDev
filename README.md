@@ -10,8 +10,8 @@
 
 - ⚙ GitHub Analytics
   <div>
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=GutenbergDev&show_icons=true&theme=dracula" />
-    <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutenbergDev&layout=compact&theme=dracula" />
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=GutenbergDev&show_icons=true&theme=dracula" />
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutenbergDev&layout=compact&theme=dracula" />
   </div>
   
   <div style="display: inline-block"><br>
