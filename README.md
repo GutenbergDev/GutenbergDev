@@ -1,5 +1,5 @@
 ## Lumos Maxima💡
-🎫 Olá, me chamo Gutemberg Medeiros. Bem vindos!
+🎫 Olá, me chamo **Gutemberg Medeiros**. Bem vindos!
 
 - 📚 Atualmente estou aprendendo React.js.
 
